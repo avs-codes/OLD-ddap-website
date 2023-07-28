@@ -75,4 +75,3 @@ const renderData = async () => {
 
 // ^What Alex said
 renderData();
-
